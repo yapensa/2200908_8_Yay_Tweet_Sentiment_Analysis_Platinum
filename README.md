@@ -6,9 +6,7 @@ Pembuatan Api Dengan Pemodelan Machine Learning Dan Deep Learning Dan Analisa Da
 2 jenis data sekunder yang kami gunakan untuk menyelesaikan proyek ini, yaitu:
 
 1. Daya untuk membuat model (train_preprocess.tsv.txt), yang terdiri dari 11.000 baris dan 2 kolom.
-2. Data untuk melakukan klasifikasi atau menguji model, yang mana file utama (data.csv) terdiri dari 13.169 baris dan 15 kolom, kolom yang akan diuji adalah “tweet” dan beberapa data pendukung lainnya:
-![image](https://github.com/yapensa/TweetSentimentAnalysis/assets/8088664/9e78e722-2f6b-4d94-a003-014ea8bd7d7c)
-
+2. Data untuk melakukan klasifikasi atau menguji model, yang mana file utama (data.csv) terdiri dari 13.169 baris dan 15 kolom, kolom yang akan diuji adalah “tweet”.
 
 # Tujuan
 1. Mendapatkan nilai sentiment dari tweet para pengguna twitter.
@@ -16,7 +14,7 @@ Pembuatan Api Dengan Pemodelan Machine Learning Dan Deep Learning Dan Analisa Da
 3. Membuat mesin/API yang dapat mengklasifikasikan sentimen dari data yang ada.
 
 # Hasil Berdasarkan Sentimen
-![image](https://github.com/yapensa/TweetSentimentAnalysis/assets/8088664/34a79608-4a71-4242-8dcb-fb6e251a4a1c)
+![image](https://github.com/yapensa/TweetSentimentAnalysis/assets/8088664/26716029-7c6c-4491-a015-3c7ee4eeef1d)
 
 # Kesimpulan
 1. Sentimen analisis memberikan wawasan yang berharga bagi pengguna. Khusus untuk perusahaan dan organisasi, dapat menjadi acuan dalam mengambil keputusan yang lebih baik, merespons dengan cepat terhadap perubahan pasar atau opini masyarakat, serta meningkatkan interaksi dan hubungan dengan pelanggan. 
