@@ -5,7 +5,7 @@ Pembuatan Api Dengan Pemodelan Machine Learning Dan Deep Learning Dan Analisa Da
 # Data
 2 jenis data sekunder yang kami gunakan untuk menyelesaikan proyek ini, yaitu:
 
-1. Daya untuk membuat model (train_preprocess.tsv.txt), yang terdiri dari 11.000 baris dan 2 kolom.
+1. Data untuk membuat model (train_preprocess.tsv.txt), yang terdiri dari 11.000 baris dan 2 kolom.
 2. Data untuk melakukan klasifikasi atau menguji model, yang mana file utama (data.csv) terdiri dari 13.169 baris dan 15 kolom, kolom yang akan diuji adalah “tweet”.
 
 # Tujuan
